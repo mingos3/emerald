@@ -1,7 +1,6 @@
 ---
 published: false
 ---
-
 ## Testing a new Post
 
 
